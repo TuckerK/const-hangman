@@ -1,0 +1,22 @@
+{
+  "name": "const-hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hangman-CLI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TuckerK/const-hangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TuckerK/const-hangman/issues"
+  },
+  "homepage": "https://github.com/TuckerK/const-hangman#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0"
+  }
+}
