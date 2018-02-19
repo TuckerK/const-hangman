@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/TuckerK/const-hangman#readme",
   "dependencies": {
+    "figlet": "^1.2.0",
     "inquirer": "^5.1.0"
   }
 }

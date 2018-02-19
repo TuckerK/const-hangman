@@ -4,7 +4,11 @@ var Letter = function(char){
 }
 
 Letter.prototype.displayed = function(){
-  return this.guessed ? this.char : "_";
+  if(this.guessed = true){
+    return this.char;
+  }else{
+    return "_"
+  }
 }
 
 module.exports = Letter;
